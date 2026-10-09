@@ -1,0 +1,10 @@
+variable,description
+fiscal_year,Fiscal year of HSR transactions or FTC enforcement actions.
+hsr_transactions,"Annual number of reported HSR transactions, from TransactionsReported."
+enforcement_actions,Number of FTC public merger enforcement records in each year or group.
+hsr_yoy_pct,Year-over-year percentage change in HSR transaction volume.
+enforcement_yoy_pct,Year-over-year percentage change in FTC enforcement actions.
+actions_per_1000_transactions,"FTC enforcement actions divided by HSR transactions, multiplied by 1,000."
+industry,Broad industry category extracted from MatterIndustry; missing values labeled Unknown.
+period,Comparison period: FY1996-2007 or FY2008-2020.
+share_pct,Percentage of enforcement records in a category; denominator is all records for the overall summary or within each period.

@@ -1,0 +1,8 @@
+FieldName,FieldType,FieldDescription
+MatterEnforcementFY,Numeric,Identifies the fiscal year in which the enforcement action took place
+MatterEnforcementDate,Date,Identifies the date the of the enforcement action (for confidentiality provisions this field is NULL for Restructured Abandoned or Fix-it-First enforcement actions)
+MatterNumber,String,Identifies the investigation number (for confidentiality provisions this field is NULL for Restructured Abandoned or Fix-it-First enforcement actions)
+MatterName,String,Identifies the name of the investigation (for confidentiality provisions this field is NULL for Restructured Abandoned or Fix-it-First enforcement actions)
+MatterEnforcementType,Categorical,Identifies the type of enforcement action that took place
+MatterIndustry,Categorical,Identifies the industry and sub industry classification affected by the enforcement action (for confidentiality provisions this field is NULL for Restructured Abandoned or Fix-it-First enforcement actions)
+MatterHyperlink,Hyperlink,Identifies the hyperlink to the FTC web page that contains all public documents relating to the enforcement action
